@@ -19,3 +19,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
+
+## tech-stack
+```json
+{
+  "language": ["PHP", "Javascript", "C++"],
+  "backend": ["Laravel", "NodeJs", "Yii2"],
+  "frontend": ["VUE", "React"],
+  "database": ["MySQL", "MongoDB", "ORACLE"],
+}
+```
