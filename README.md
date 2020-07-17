@@ -27,5 +27,6 @@ Here are some ideas to get you started:
   "backend": ["Laravel", "NodeJs", "Yii2"],
   "frontend": ["VUE", "React"],
   "database": ["MySQL", "MongoDB", "ORACLE"],
+  "mobile": ["React-native"]
 }
 ```
