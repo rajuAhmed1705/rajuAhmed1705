@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 -->
 
-## ⚡tech-stack
+## ⚡ tech-stack
 ```json
 {
   "language": ["PHP", "Javascript", "C++"],
