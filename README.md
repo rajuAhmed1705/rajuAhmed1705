@@ -30,4 +30,4 @@ Here are some ideas to get you started:
   "mobile": ["React-native"]
 }
 ```
-<img src="https://github-readme-stats.vercel.app/api?username=muntakim1&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=rajuAhmed1705&show_icons=true">
