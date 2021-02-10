@@ -25,9 +25,12 @@ Here are some ideas to get you started:
 {
   "language": ["PHP", "Javascript", "C++"],
   "backend": ["Laravel", "NodeJs", "Yii2"],
-  "frontend": ["VusJs", "ReactJs"],
+  "frontend": ["VusJs", "ReactJs", "NuxtJs"],
   "database": ["MySQL", "MongoDB", "ORACLE"],
-  "mobile": ["React-native"]
+  "mobile": ["React-native"],
+  "containerization": ["Docker"],
+  "orchestration": ["Kubernetes"],
+  "Architecture": ["Monolithic", "Microservices"]
 }
 ```
 <img src="https://github-readme-stats.vercel.app/api?username=rajuAhmed1705&show_icons=true">
