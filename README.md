@@ -1,6 +1,7 @@
 # Raju Ahmed
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=gray&logo=gmail&logoColor=red)](mailto:rajucse1705@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 [![LinkedIn Connect](https://img.shields.io/badge/linkedIn-black??color=14171A&labelColor=gray&logo=linkedin)](https://www.linkedin.com/in/raju-ahmed-a91478155/)
+![](https://komarev.com/ghpvc/?username=rajuAhmed1705&style=flat-square)
 
 👋 Hi there, I'm Raju Ahmed from Bangladesh. I’m an innovative full-stack software engineer with 2 years of experience managing all aspects of the development process for small to medium-sized companies. I have profound knowledge in PHP, Javascript and C++. 🔭 I’m currently working as a Junior Software Developer in Shurjomukhi Ltd. 👯 I'm open to learn any new technology to collaborate with my team members.
 
