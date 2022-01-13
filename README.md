@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ## ⚡ tech-stack
 ```json
 {
-  "language": ["PHP", "Javascript", "C++"],
+  "language": ["Javascript", "PHP", "C++"],
   "backend": ["Laravel", "NodeJs", "Yii2"],
   "frontend": ["VusJs", "ReactJs", "NuxtJs"],
   "database": ["MySQL", "MongoDB", "ORACLE"],
