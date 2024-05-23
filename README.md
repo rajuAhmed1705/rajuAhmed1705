@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 ## ⚡ tech-stack
 ```json
 {
-  "language": ["Javascript", "PHP", "C++"],
+  "language": ["Javascript", "Typescript", "SQL"],
   "backend": ["Laravel", "NodeJs", "Yii2"],
   "frontend": ["VusJs", "ReactJs", "NuxtJs"],
   "database": ["MySQL", "MongoDB", "ORACLE"],
-  "mobile": ["React-native"],
+  "mobile": ["flutter"],
   "containerization": ["Docker"],
   "orchestration": ["Kubernetes"],
   "Architecture": ["Monolithic", "Microservices"]
