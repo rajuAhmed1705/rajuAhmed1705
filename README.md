@@ -3,7 +3,13 @@
 [![LinkedIn Connect](https://img.shields.io/badge/linkedIn-black??color=14171A&labelColor=gray&logo=linkedin)](https://www.linkedin.com/in/raju-ahmed-a91478155/)
 ![](https://komarev.com/ghpvc/?username=rajuAhmed1705&style=flat-square)
 
-👋 Hello, I'm Raju Ahmed from Bangladesh, an innovative full-stack software engineer with over 3 years of extensive experience managing all aspects of the development process for small to medium-sized companies. I have profound knowledge of TypeScript, JavaScript, and SQL. 🔭 Currently, I'm pursuing my master's degree in Data Science at the University of Potsdam, Germany. 👨‍🎓 Alongside my studies, I am working as a student assistant at the Hasso Plattner Institute, contributing to a Flutter project. 👯 I'm open to learning any new technology to collaborate with my team members.
+👋 Hello! I'm Raju Ahmed, an innovative Full-Stack Software Engineer based in Berlin, Germany, with over 3 years of extensive experience managing all aspects of the development process for small to medium-sized companies. I have strong expertise in TypeScript, JavaScript, and SQL.
+
+🔭 I’m currently pursuing a Master’s degree in Data Science at the Berliner Hochschule für Technik, Germany.
+
+👨‍🎓 Alongside my studies, I’m working as a Software Engineer at Aury.co.
+
+👯 I’m always eager to learn new technologies and collaborate effectively with my team members.
 
 <!--
 **rajuAhmed1705/rajuAhmed1705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
